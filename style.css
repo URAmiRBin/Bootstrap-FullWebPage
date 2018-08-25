@@ -1,0 +1,7 @@
+.navbar-nav li.nav-item:hover {
+    background-color: #5b9aff;
+}
+
+.navbar {
+    padding: 0 1rem;
+}

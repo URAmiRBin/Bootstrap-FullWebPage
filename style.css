@@ -5,3 +5,17 @@
 .navbar {
     padding: 0 1rem;
 }
+
+.jumbotron {
+    background: none;
+    text-align: center;
+}
+
+.section-light {
+    background-color: #ededed;
+    padding: 2em;
+}
+
+.carousel-caption {
+    color: #000000;
+}

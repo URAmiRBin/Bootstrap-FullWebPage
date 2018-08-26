@@ -35,3 +35,22 @@ button.button-login {
     display: block;
     margin: auto;
 }
+
+.form-Wrapper {
+    padding: 1rem;
+}
+
+.img-Center {
+    display: block;
+    margin: auto;
+}
+
+.btn-Center {
+    display: block;
+    margin: auto;
+    width: 66%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-color: #ff6363;
+}
+

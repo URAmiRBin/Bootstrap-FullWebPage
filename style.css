@@ -13,9 +13,25 @@
 
 .section-light {
     background-color: #ededed;
-    padding: 2em;
+    padding: 2rem;
 }
 
 .carousel-caption {
     color: #000000;
+}
+
+.section-dark {
+    background-color: #adadad;
+    padding: 2rem;
+}
+
+.row-button-login {
+    margin-top: 20px;
+}
+
+button.button-login {
+    color: white;
+    background-color: red;
+    display: block;
+    margin: auto;
 }

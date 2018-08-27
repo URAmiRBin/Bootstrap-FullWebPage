@@ -54,3 +54,34 @@ button.button-login {
     background-color: #ff6363;
 }
 
+.footer-img {
+    padding: 10px;
+}
+
+.footer-bg {
+    background-color: #0061ff;
+}
+
+.social {
+    margin:auto;
+}
+
+.fa {
+    padding: 10px;
+}
+
+.fa-google {
+    color: brown;
+}
+
+.fa-instagram {
+    color: #ffffff;
+}
+
+.fa-facebook {
+    color: #0f2b59;
+}
+
+.footer {
+    margin: 0 1rem;
+}
